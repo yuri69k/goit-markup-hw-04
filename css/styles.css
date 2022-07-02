@@ -346,7 +346,9 @@ header {
     color:var(--text-white-color);
 }
 .footer .link:hover,
-.footer .link:focus,
+.footer .link:focus {
+    color: var(--accent-color);
+}
 .filter .button.primary:hover,
 .filter .button.primary:focus {
     color: var(--text-white-color);

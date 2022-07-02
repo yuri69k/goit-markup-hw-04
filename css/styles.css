@@ -89,9 +89,7 @@ header {
     display: flex;
     align-items: center;
     gap: 93px;
-
 }
-
 .logo{
     color: var(--primary-color);  
     }
